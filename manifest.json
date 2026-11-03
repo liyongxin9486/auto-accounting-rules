@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": "2026.11.03",
+  "ruleCount": 183,
+  "systemRules": 163,
+  "userRules": 20,
+  "enabled": 182,
+  "disabled": [
+    {
+      "name": "建行微信公众号新模板兼容",
+      "app": "com.tencent.mm",
+      "type": "DATA"
+    }
+  ],
+  "sourceApp": "net.ankio.auto",
+  "sourceAppVersion": "4.0.2-Canary.20261023_1133",
+  "description": "识别规则与规则引擎公共脚本，不包含账单、账号或API密钥"
+}

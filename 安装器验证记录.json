@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-03",
+  "totalRules": 183,
+  "originalRules": 163,
+  "addedRules": 20,
+  "phoneRootPath": "/sdcard",
+  "productionRepeatRuns": 2,
+  "productionNewRules": 0,
+  "productionRuleContentsUnchanged": true,
+  "phoneQuickJsAllParsersLoaded": true,
+  "autoSuPathVerified": true,
+  "isolatedMockTests": {
+    "emptyInstall": 183,
+    "repeatAdded": 0,
+    "preserveDifferent": true,
+    "explicitUpdate": 1,
+    "togglePreserved": true,
+    "duplicateConflictStoppedBeforeMutation": true
+  },
+  "historicalBillsReprocessed": false,
+  "rebooted": false
+}
